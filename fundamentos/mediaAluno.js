@@ -1,6 +1,6 @@
 let a = 9.0
 let b = 9.5
-let c = 7.5
+let c = 2.5
 
 const media = (a + b + c)/3
 
