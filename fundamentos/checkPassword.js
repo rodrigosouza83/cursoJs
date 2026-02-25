@@ -11,12 +11,12 @@ rl.question("Entre com a senha de usuário: ", (password) => {
 
     if (userPassword === password.trim()) {
 
-        console.log("Senha Correta, acesso liberado")
+        console.log("ACESSO LIBERADO")
     }
 
     else {
 
-        console.log("Senha inválida")
+        console.log("SENHA INVÁLIDA")
     }
 
 
